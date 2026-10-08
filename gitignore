@@ -1,0 +1,5 @@
+# Python / Streamlit ignores
+__pycache__/
+env/
+venv/
+.streamlit/secrets.toml
