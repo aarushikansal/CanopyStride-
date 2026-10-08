@@ -2,3 +2,6 @@ streamlit
 pandas
 numpy
 tabpfn
+pydeck
+openrouteservice
+streamlit-js-eval
